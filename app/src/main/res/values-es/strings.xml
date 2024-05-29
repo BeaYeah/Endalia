@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Endalia</string>
+
+    <!-- Login Screen -->
+    <string name="login">ACCEDER</string>
+    <string name="register">REGISTRARME</string>
+    <string name="register_msg">CREAR CUENTA</string>
+    <string name="login_msg">Si ya tienes una cuenta puedes ACCEDER</string>
+    <string name="invalid_credentials">Correo o contraseña no válidos</string>
+    <string name="login_successfull">Acceso concedido</string>
+    <string name="passwords_not_match">Las contraseñas no coinciden</string>
+    <string name="invalid_mail_format">El formato del email no es válido</string>
+    <string name="user_registered">Usuario registrado correctamente</string>
+    <string name="password_requirements">La contraseña debe tener al menos 8 caracteres, contener mayúsculas, minúsculas, números y caracteres especiales</string>
+    <string name="powered_by">Powered by EndaliaMobile</string>
+    <string name="logo">Endalia Logo</string>
+    <string name="ic_mail_str">Icono Usuario</string>
+    <string name="ic_password_str">Icono Contraseña</string>
+    <string name="email">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar Contraseña</string>
+
+    <!-- Employee Directory Screen -->
+    <string name="menu">Menu</string>
+    <string name="directory">Directorio</string>
+    <string name="search">Búsqueda</string>
+    <string name="clear_search">Limpiar Búsqueda</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <!-- Employee Details Screen -->
+    <string name="employee_not_found">Empleado no encontrado</string>
+    <string name="back">Volver</string>
+    <string name="profile_photo">Foto de Perfil</string>
+</resources>

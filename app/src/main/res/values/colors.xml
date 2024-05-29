@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_blue">#1252A1</color>
+    <color name="disabled_dark_blue">#901252A1</color>
+    <color name="fair_blue">#4384D4</color>
+    <color name="endalia_grey">#C9C9C9</color>
+    <color name="endalia_dark_grey">#B1B1B1</color>
+    <color name="error_red">#A82B2B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

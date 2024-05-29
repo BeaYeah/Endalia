@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Endalia</string>
+
+    <!-- Login Screen -->
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="register_msg">CREATE ACCOUNT</string>
+    <string name="login_msg">Already have an account? Login</string>
+    <string name="invalid_credentials">Invalid email or password</string>
+    <string name="login_successfull">Login successful</string>
+    <string name="passwords_not_match">Passwords do not match</string>
+    <string name="invalid_mail_format">Invalid email format</string>
+    <string name="user_registered">User registered successfully</string>
+    <string name="password_requirements">Password must be at least 8 characters long and contain lowercase, uppercase, numbers, and special characters</string>
+    <string name="powered_by">Powered by EndaliaMobile</string>
+    <string name="logo">Endalia Logo</string>
+    <string name="ic_mail_str">Email Icon</string>
+    <string name="ic_password_str">Password Icon</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <!-- Employee Directory Screen -->
+    <string name="menu">Menu</string>
+    <string name="directory">Directory</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear search</string>
+    <string name="logout">Logout</string>
+
+    <!-- Employee Details Screen -->
+    <string name="employee_not_found">Employee not found</string>
+    <string name="back">Go back</string>
+    <string name="profile_photo">Profile photo</string>
+
+</resources>
